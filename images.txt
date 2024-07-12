@@ -1,1 +1,2 @@
 axllent/mailpit
+library/postgres:15-alpine
