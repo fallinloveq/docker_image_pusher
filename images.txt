@@ -1,2 +1,3 @@
 axllent/mailpit
 library/postgres:15-alpine
+docker.io/library/node:12.21.0-buster-slim 
