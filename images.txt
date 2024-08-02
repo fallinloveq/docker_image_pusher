@@ -4,4 +4,5 @@ docker.io/library/node:12.21.0-buster-slim
 python:3.10.1
 python:3.12.2-slim
 redis
-ubuntu
+ubuntu:22.04
+ubuntu:20.04
