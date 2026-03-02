@@ -9,4 +9,4 @@ ubuntu:20.04
 gcc
 redis
 hiyouga/llamafactory:latest
-dhi.io/neo4j:2025
+neo4j:latest
