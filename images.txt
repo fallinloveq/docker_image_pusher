@@ -11,3 +11,4 @@ redis
 hiyouga/llamafactory:latest
 neo4j:latest
 arm64v8/neo4j:2026
+
