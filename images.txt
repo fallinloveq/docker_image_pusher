@@ -9,4 +9,4 @@ ubuntu:20.04
 gcc
 redis
 hiyouga/llamafactory:latest
-lmsysorg/sglang:nightly-dev-20260216-d3bae71e
+lmsysorg/sglang:nightly-dev-cu13-20260331-3650bfb1
