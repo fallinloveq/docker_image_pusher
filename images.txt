@@ -9,6 +9,4 @@ ubuntu:20.04
 gcc
 redis
 hiyouga/llamafactory:latest
-neo4j:latest
-arm64v8/neo4j:2026
 lmsysorg/sglang:nightly-dev-20260216-d3bae71e
