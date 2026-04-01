@@ -10,3 +10,4 @@ gcc
 redis
 hiyouga/llamafactory:latest
 lmsysorg/sglang:nightly-dev-cu13-20260331-3650bfb1
+lmsysorg/sglang:nightly-dev-cu13-20260401-b6fe0cca
