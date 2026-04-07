@@ -15,3 +15,4 @@ lmsysorg/sglang:nightly-dev-cu13-20260401-b6fe0cca
 nvidia/cuda:13.0.0-base-ubuntu22.04
 ghcr.io/open-webui/open-webui:ollama
 ghcr.io/open-webui/open-webui:main
+chromadb/chroma:1.5.6.dev112
