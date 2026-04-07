@@ -17,3 +17,4 @@ nvidia/cuda:13.0.0-base-ubuntu22.04
 ghcr.io/open-webui/open-webui:ollama
 ghcr.io/open-webui/open-webui:main
 chromadb/chroma:1.5.6.dev112
+neo4j:5.26.24
