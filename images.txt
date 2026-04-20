@@ -21,3 +21,4 @@ minio/mc:latest
 searxng/searxng
 rustfs/rustfs:latest
 lobehub/lobehub
+
