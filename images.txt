@@ -17,3 +17,5 @@ ghcr.io/open-webui/open-webui:main
 chromadb/chroma:1.5.6.dev112
 neo4j:5.26.24
 paradedb/paradedb:latest-pg17
+minio/mc:latest
+searxng/searxng
