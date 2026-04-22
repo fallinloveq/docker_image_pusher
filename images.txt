@@ -21,4 +21,4 @@ minio/mc:latest
 searxng/searxng
 rustfs/rustfs:latest
 lobehub/lobehub
-
+openwebui/open-webui:0.9.1-cuda126
