@@ -23,3 +23,4 @@ rustfs/rustfs:latest
 lobehub/lobehub
 openwebui/open-webui:0.9.1-cuda126
 python:3.11.15-slim-bookworm
+node:22.22-alpine3.22
