@@ -27,3 +27,4 @@ node:22.22-alpine3.22
 hiyouga/llamafactory
 docker/dockerfile:1
 registry:3
+nginx:stable
