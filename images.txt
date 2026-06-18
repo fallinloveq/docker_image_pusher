@@ -29,3 +29,4 @@ docker/dockerfile:1
 registry:3
 nginx:stable
 keycloak/keycloak:26.6
+caddy:nanoserver-ltsc2025
