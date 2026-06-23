@@ -30,3 +30,4 @@ registry:3
 nginx:stable
 keycloak/keycloak:26.6
 caddy:2.11.4
+qwenllm/qwen3-asr
