@@ -31,3 +31,4 @@ nginx:stable
 keycloak/keycloak:26.6
 caddy:2.11.4
 qwenllm/qwen3-asr
+mysql:5.7.8
