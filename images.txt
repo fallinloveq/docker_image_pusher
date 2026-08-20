@@ -33,3 +33,4 @@ caddy:2.11.4
 qwenllm/qwen3-asr
 lmsysorg/sglang:nightly-dev-cu13-20260810-7c90840b
 lmsysorg/sglang:dev-cu12
+smanx/deepseek-harness:latest
