@@ -28,4 +28,5 @@ nginx:stable
 lmsysorg/sglang:dev-cu12
 lmsysorg/sglang:nightly-dev-cu13-20260825-1ec20fd2
 lmsysorg/sglang:nightly-dev-cu13-20260908-20ca564b
+lmsysorg/sglang:qwen38flashnext
 smanx/deepseek-harness:latest
